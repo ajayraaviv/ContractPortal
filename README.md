@@ -1,2 +1,2 @@
-# TimePortal
-Time sheet application
+# ContractPortal
+Contract Portal application 
